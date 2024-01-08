@@ -5,14 +5,14 @@ using StoreApp.Data.Concrete;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
-var app = builder.Build();
 
 builder.Services.AddDbContext<StoreDbContext>(options => {
-    options.UseSqlite(builder.Configuration["ConnectionStrings:StoreDbConnection"]);
+    options.UseSqlite(builder.Configuration["ConnectionStrings:StoreDbConnection"], b => b.MigrationsAssembly("StoreApp.Web"));
 });
 
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
 
+var app = builder.Build();
 app.UseStaticFiles();
 app.MapDefaultControllerRoute();
 
