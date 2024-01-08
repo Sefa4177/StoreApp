@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KPYVAfmSKeGF8H+DgASd10H9vA6NHjuoVup0UorOvKs=",
+  "Source": "StoreApp.Web",
+  "BasePath": "_content/StoreApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
