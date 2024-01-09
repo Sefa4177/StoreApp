@@ -252,3 +252,5 @@ C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\obj\Debug\net8.0\s
 C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\obj\Debug\net8.0\StoreApp.Web.csproj.CopyComplete
 C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\obj\Debug\net8.0\StoreApp.Web.genruntimeconfig.cache
 C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\obj\Debug\net8.0\ref\StoreApp.Web.dll
+C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\bin\Debug\net8.0\libman.json
+C:\Users\Sefa\Desktop\Asp.Net Projeleri\StoreApp\StoreApp.Web\bin\Debug\net8.0\StoreApp.Web.staticwebassets.runtime.json
